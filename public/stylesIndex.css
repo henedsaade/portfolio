@@ -1,7 +1,6 @@
 body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     background-color: #FCEAFA;
-    text-align: left;
 }
 
 h2 {
@@ -12,6 +11,10 @@ p {
     line-height: 1.5;
 }
 
-title {
+a {
     font-weight: bold;
+}
+
+a:hover {
+    color: #FD7EC2;
 }
